@@ -10,7 +10,7 @@ app.use(express.json());
 
 
 const USER = {
-  email: "test@netflix.com",
+  email: "priya@gmail.com",
   password: "123456"
 };
 
